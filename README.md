@@ -330,24 +330,6 @@ The URL cannot be pre-filled before the user's GitHub repository and Render acco
 
 ---
 
-# Project Files
-
-
-GenAI-Task20-Keval/
-│
-├── app.py
-├── assignment20.py
-├── recommender.py
-├── movies.csv
-├── requirements.txt
-├── README.md
-├── render.yaml
-├── .gitignore
-└── sample_output.txt
-
-
----
-
 # Run Streamlit App
 
 ```bash
