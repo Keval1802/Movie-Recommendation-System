@@ -246,7 +246,7 @@ git branch -M main
 Then connect and push:
 
 ```bash
-git remote add origin https://github.com/keval1802/GenAI-Task20-Keval.git
+git remote add origin git remote add origin https://github.com/Keval1802/Movie-Recommendation-System.git
 git push -u origin main
 ```
 
@@ -305,8 +305,7 @@ Create the service and wait for the deployment to become live.
 Render will provide a URL similar to:
 
 
-https://your-service-name.onrender.com
-
+https://movie-recommendation-system-47g5.onrender.com
 
 ---
 
