@@ -1,5 +1,3 @@
-import sys
-sys.stdout.reconfigure(encoding="utf-8")
 from recommender import load_and_prepare_data, build_recommender, recommend
 
 print("TASK 5 - RECOMMENDATION FUNCTION")
